@@ -1,0 +1,52 @@
+#countLabel{
+    display: block;
+    text-align: center;
+    font-size: 10em;
+    font-family: Helvetica;
+}
+#btnContainer{
+    text-align: center;
+}
+.buttons{
+    padding: 10px 20px;
+    font-size: 1.5em;
+    color: white;
+    background-color: hsl(214, 100%, 74%);
+    border-radius: 5px;
+    cursor: pointer;
+    transition: background-color 0.25s;
+}
+.buttons:hover{
+    background-color: hsl(214, 100%, 56%);;
+}
+.random-number-generator{
+    margin-top: 150px;
+    font-family: Verdana;
+    text-align: center;
+}
+#myButton{
+    font-size: 3em;
+    padding: 5px 25px;
+    border-radius: 5px;
+    cursor: pointer;
+}
+.myLabels{
+    font-size: 3em;
+}
+.age-project{
+    font-family: Verdana;
+    font-size: 3em;
+    text-align: center;
+    margin-top: 150px;
+}
+#resultElement{
+    font-size: 30px;
+}
+.payment-method{
+    font-size: 3em;
+    font-family: Verdana;
+    margin-top: 150px;
+}
+#mySubmit2{
+    font-size: 1em;
+}
